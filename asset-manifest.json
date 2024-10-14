@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Code4Placements/static/css/main.e6c13ad2.css",
+    "main.js": "/Code4Placements/static/js/main.5aee57fe.js",
+    "static/js/453.6048a584.chunk.js": "/Code4Placements/static/js/453.6048a584.chunk.js",
+    "index.html": "/Code4Placements/index.html",
+    "main.e6c13ad2.css.map": "/Code4Placements/static/css/main.e6c13ad2.css.map",
+    "main.5aee57fe.js.map": "/Code4Placements/static/js/main.5aee57fe.js.map",
+    "453.6048a584.chunk.js.map": "/Code4Placements/static/js/453.6048a584.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.5aee57fe.js"
+  ]
+}
